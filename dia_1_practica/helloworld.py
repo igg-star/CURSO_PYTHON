@@ -45,3 +45,5 @@ print(type([1, 2, 3]))                           # Lista
 print(type((1, 2, 3)))                           # Tupla (Se usan paréntesis)
 print(type({1, 2, 3}))                           # Conjunto (Se usan llaves)
 print(type({'name':'Ignacio'}))                  # Diccionario (Clave:Valor)
+
+#fin dia uno
